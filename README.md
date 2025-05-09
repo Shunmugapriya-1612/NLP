@@ -47,6 +47,11 @@ The model was evaluated on a separate test set, yielding the following results:
    * Transcripts were cleaned and tokenized using the BERT tokenizer. The input text was processed with truncation and padding to ensure compatibility with BERT’s input requirements.
 3. **Model Training**:
 
+Model Classifier: has been uploaded in the Shunmugapriya1612/sports-bert-classifier repository
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/735f7286-cc5d-4d91-a001-45d4c1cc942b" />
+
+
    * The augmented dataset was split into training and testing sets, with an 80/20 split. The training loop included 25 epochs, with loss being computed at each step.
 4. **Model Evaluation**:
 
