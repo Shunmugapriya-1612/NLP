@@ -100,6 +100,3 @@ To run this project locally or on Streamlit Cloud:
 
 **Generated AI Response**: *"It was a tough match, but the team played well. We're happy with our performance."*
 
----
-
-This comprehensive overview explains the task, method, and implementation of your project, providing both technical details and application-level functionality for users and developers alike.
