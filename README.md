@@ -105,3 +105,22 @@ To run this project locally or on Streamlit Cloud:
 
 **Generated AI Response**: *"It was a tough match, but the team played well. We're happy with our performance."*
 
+**Features of StreamLit App**
+---
+**Classify Interview Transcript**
+
+<img width="763" alt="image" src="https://github.com/user-attachments/assets/ac9f9f03-8ff3-49ba-a8fa-dd2c084dc9ed" />
+
+---
+**Generate AI Interview Response**
+
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/8da9d11f-c65b-44e1-9585-77d405b168b4" />
+
+---
+**Topic Clusters**
+
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/9035f726-1baa-4970-92a1-b2d6166547a0" />
+
+
+
+
