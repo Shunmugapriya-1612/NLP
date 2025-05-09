@@ -78,7 +78,7 @@ with tab2:
 with tab3:
     st.header("Explore Topic Clusters")
     try:
-        embed_df = pd.read_csv(r"C:\Users\91735\OneDrive\Documents\Data Science\NLP\Exam\Exam\Input\Project\embeddings.csv")  # x, y, label, text
+        embed_df = pd.read_csv(r"embeddings.csv")  # x, y, label, text
         fig = px.scatter(embed_df, x="x", y="y", color="label", hover_data=["text"], title="Transcript Embeddings")
         st.plotly_chart(fig, use_container_width=True)
     except FileNotFoundError:
