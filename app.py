@@ -12,8 +12,8 @@ from transformers import BertTokenizer, BertForSequenceClassification
 
 @st.cache_resource
 def load_bert_classifier():
-    tokenizer = BertTokenizer.from_pretrained(r"C:\Users\91735\OneDrive\Documents\Data Science\NLP\Exam\Exam\Input\Project\bert_classifier_augmented")
-    model = BertForSequenceClassification.from_pretrained(r"C:\Users\91735\OneDrive\Documents\Data Science\NLP\Exam\Exam\Input\Project\bert_classifier_augmented")
+    tokenizer = BertTokenizer.from_pretrained(r"Shunmugapriya1612/sports-bert-classifier")
+    model = BertForSequenceClassification.from_pretrained(r"Shunmugapriya1612/sports-bert-classifier")
     model.eval()
     return tokenizer, model
 
